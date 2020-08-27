@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kevin's Computer Programming Protfolio
 
 You can use the [editor on GitHub](https://github.com/Kliu9668/Computer-Programming-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
