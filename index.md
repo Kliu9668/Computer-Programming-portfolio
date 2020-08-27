@@ -1,5 +1,7 @@
 ## Welcome to Kevin's Computer Programming Protfolio
 
+![Typing Test](https://github.com/Kliu9668/Computer-Programming-portfolio/blob/gh-pages/Images/Screenshot%202020-08-27%20at%208.01.09%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Kliu9668/Computer-Programming-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
